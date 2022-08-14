@@ -1,0 +1,25 @@
+body{ background-image: url(https://html.themexriver.com/Saasio/assets/img/res/d1.jpg);}
+ul li { padding-left: 45px;
+    margin-top: 20px;
+
+}
+
+.b1 {
+    width: 450px;
+    height: 400px;
+    margin-top: 170px;
+    margin-left: 150px; }
+
+.co {
+       margin:10px;
+       width: 390px;
+       height: 150px;}
+
+.mid{background-color: black;}
+hr{border: 2px solid lightgray;}
+
+button :hover{ background-color: black;
+border: 2px solid #F8C471;}
+    
+        
+        
